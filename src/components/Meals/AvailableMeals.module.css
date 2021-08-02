@@ -16,6 +16,11 @@
     color: #fff
 }
 
+.http-error {
+    text-align: center;
+    color: rgb(90, 6, 6);
+}
+
 @keyframes meals-appear {
     from {
         opacity: 0;
